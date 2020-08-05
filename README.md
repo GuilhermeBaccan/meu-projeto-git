@@ -38,7 +38,7 @@ rapidly building custom designs.
 
 ## Author:
 
-* **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
+* **Guilherme Baccan** - [LinkedIn](https://www.linkedin.com/feed/)
 
 
 ## Licença
